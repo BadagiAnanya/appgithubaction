@@ -3,7 +3,8 @@ This repository contains the code and resources for a comprehensive tutorial on 
 Overview
 In this tutorial, we explore:
 
-What is GitHub Actions?GitHub Actions is an automation tool that enables developers to create custom workflows triggered by events such as code pushes, pull requests, or scheduled tasks. It supports tasks like CI/CD, testing, and more.
+What is GitHub Actions?
+GitHub Actions is an automation tool that enables developers to create custom workflows triggered by events such as code pushes, pull requests, or scheduled tasks. It supports tasks like CI/CD, testing, and more.
 
 Key Concepts:
 
@@ -59,7 +60,7 @@ Continuous Feedback: Regular monitoring helps identify and resolve issues quickl
 
 Getting Started
 
-Clone this repository: git clone <repository-url>
+Clone this repository: git clone [<repository-url>](https://github.com/BadagiAnanya/appgithubaction.git)
 Install dependencies: pip install -r requirements.txt
 Explore the .github/workflows/ci.yml file to understand the workflow.
 Push changes to the main branch to trigger the GitHub Actions workflow.
